@@ -1,6 +1,6 @@
 {
   "name": "elektrik",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Режим электрика: «розетки, кабеля, нахуй, блять». Общение в чате и переписывание любого текста в стиле мема. Словарь и шкала состояний — из pohuy (MIT, Serge Shima).",
   "author": {
     "name": "Andrey Manzadey"
