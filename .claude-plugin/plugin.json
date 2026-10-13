@@ -1,0 +1,8 @@
+{
+  "name": "elektrik",
+  "version": "1.0.0",
+  "description": "Режим электрика: «розетки, кабеля, нахуй, блять». Общение в чате и переписывание GitLab issue/MR в стиле мема. Словарь и шкала состояний — из pohuy (MIT, Serge Shima).",
+  "author": {
+    "name": "Andrey Manzadey"
+  }
+}

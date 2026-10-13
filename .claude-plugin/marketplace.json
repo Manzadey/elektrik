@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "elektrik",
+  "description": "Локальный маркетплейс для плагина elektrik.",
+  "owner": {
+    "name": "Andrey Manzadey"
+  },
+  "plugins": [
+    {
+      "name": "elektrik",
+      "description": "Режим электрика: «розетки, кабеля, нахуй, блять».",
+      "source": "./",
+      "category": "fun"
+    }
+  ]
+}
