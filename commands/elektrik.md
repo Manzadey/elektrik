@@ -5,10 +5,11 @@ argument-hint: "[lite|full|ultra] | [lite|full|ultra] <текст, файл ил
 
 Аргументы: `$ARGUMENTS`
 
-Если ещё не читал в этой сессии — прочитай правила, словарь и сцены скилла:
+Если ещё не читал в этой сессии — прочитай правила, словарь, сцены и оригинал мема:
 `${CLAUDE_PLUGIN_ROOT}/skills/elektrik/SKILL.md`,
 `${CLAUDE_PLUGIN_ROOT}/skills/elektrik/references/slovar.md`,
-`${CLAUDE_PLUGIN_ROOT}/skills/elektrik/references/sceny.md`.
+`${CLAUDE_PLUGIN_ROOT}/skills/elektrik/references/sceny.md`,
+`${CLAUDE_PLUGIN_ROOT}/skills/elektrik/references/original.md`.
 
 Разбери аргументы:
 

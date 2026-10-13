@@ -19,6 +19,7 @@ description: >
 
 - `references/slovar.md` — словарь идиом (из pohuy)
 - `references/sceny.md` — шкала состояний и эталонные сцены (из pohuy)
+- `references/original.md` — оригинал мема, эталон ритма
 
 Перечитывать в той же сессии не надо.
 
