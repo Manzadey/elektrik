@@ -26,6 +26,7 @@ claude plugin install elektrik@elektrik
 /elektrik:elektrik ultra                          # монолог у щитка
 /elektrik:elektrik Деплой упал, база недоступна   # переписать текст
 /elektrik:elektrik lite docs/incident.md          # переписать файл, мягко
+/elektrik:elektrik absurd docs/tz.md              # операции → хуйнюшки, выписки → залупы
 ```
 
 | Уровень | Что меняется |
@@ -33,6 +34,7 @@ claude plugin install elektrik@elektrik
 | `lite`  | «нахуй, блять» только на ключевых местах и статусах |
 | `full`  | ритм мема по всему тексту (по умолчанию) |
 | `ultra` | рефрены, присказки, отсылки к лестнице и автоматике |
+| `absurd` | ритм full + термины заменены на абсурдный мат, в конце расшифровка |
 
 ## Границы
 
