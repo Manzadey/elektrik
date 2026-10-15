@@ -2,6 +2,16 @@
 
 Формат — [Keep a Changelog](https://keepachangelog.com/ru/1.1.0/), версии — [SemVer](https://semver.org/lang/ru/).
 
+## [1.4.0] — 2026-10-15
+
+### Добавлено
+
+- Плагин для Codex: `.codex-plugin/plugin.json` и `.agents/plugins/marketplace.json`.
+  Скилл общий с Claude Code, вызов — `$elektrik`.
+- `install-codex.sh` — установка скилла в `~/.agents/skills` одной командой, без маркетплейса;
+  `--uninstall` удаляет. По образцу установщика [smixs/pohuy](https://github.com/smixs/pohuy).
+- Раздел «Вызов» в `SKILL.md`: разбор аргументов теперь в самом скилле, а не только в команде Claude Code.
+
 ## [1.3.0] — 2026-10-14
 
 ### Добавлено
@@ -58,5 +68,6 @@
 - Убрана привязка к GitLab: переписывается любой текст, файл или ссылка, результат — в чат,
   без самостоятельной публикации.
 
+[1.4.0]: https://github.com/Manzadey/elektrik/releases/tag/v1.4.0
 [1.3.0]: https://github.com/Manzadey/elektrik/releases/tag/v1.3.0
 [1.2.0]: https://github.com/Manzadey/elektrik/releases/tag/v1.2.0

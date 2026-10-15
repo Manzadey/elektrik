@@ -1,0 +1,21 @@
+{
+  "name": "elektrik",
+  "interface": {
+    "displayName": "Elektrik"
+  },
+  "plugins": [
+    {
+      "name": "elektrik",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Manzadey/elektrik.git",
+        "ref": "main"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Fun"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "elektrik",
+  "version": "1.4.0",
+  "description": "Режим электрика: «розетки, кабеля, нахуй, блять». Общение в чате и переписывание любого текста в стиле мема. Словарь и шкала состояний — из pohuy (MIT, Serge Shima).",
+  "author": {
+    "name": "Andrey Manzadey",
+    "url": "https://github.com/Manzadey"
+  },
+  "homepage": "https://github.com/Manzadey/elektrik",
+  "repository": "https://github.com/Manzadey/elektrik",
+  "license": "MIT",
+  "keywords": ["fun", "meme", "rewrite"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Elektrik",
+    "shortDescription": "Режим электрика из мема",
+    "longDescription": "Агент говорит как уставший электрик: рваный ритм «нахуй, блять», а код, команды и цифры — байт в байт. Уровни lite, full, ultra, absurd.",
+    "developerName": "Andrey Manzadey",
+    "category": "Fun",
+    "capabilities": ["Instructions"],
+    "websiteURL": "https://github.com/Manzadey/elektrik",
+    "defaultPrompt": [
+      "Use $elektrik full for this chat.",
+      "Use $elektrik ultra to rewrite this text.",
+      "Use $elektrik absurd to rewrite this spec."
+    ]
+  }
+}
